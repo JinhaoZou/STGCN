@@ -4,6 +4,9 @@
 [![stars](https://img.shields.io/github/stars/hazdzz/STGCN)](https://github.com/hazdzz/STGCN/stargazers)
 [![License](https://img.shields.io/github/license/hazdzz/STGCN)](./LICENSE)
 
+## Note:
+This documents only modify the layer.py for a connection from input residue to the output of each STGCN block.
+
 ## About
 The PyTorch version of Linformer was implemented for the paper titled *Spatio-Temporal Graph Convolutional Networks:
 A Deep Learning Framework for Traffic Forecasting*.
